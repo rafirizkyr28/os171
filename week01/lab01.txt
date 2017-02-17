@@ -1,0 +1,24 @@
+total 84
+drwxr-xr-x 20 muhammad.rafi51 StafCS 4096 Feb 17 09:20 .
+drwx--x--x  3 muhammad.rafi51 StafCS 4096 Feb 17 09:16 ..
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:27 01
+drwxr-xr-x  8 muhammad.rafi51 StafCS 4096 Feb 17 09:17 .git
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:34 key
+-rw-r--r--  1 muhammad.rafi51 StafCS    0 Feb 17 09:20 lab01.txt
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:34 log
+-rw-r--r--  1 muhammad.rafi51 StafCS    7 Feb 17 08:25 README.md
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:37 sandbox
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:27 week
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 09:16 week00
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:30 week01
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:30 week02
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:31 week03
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:31 week04
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:32 week05
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:32 week06
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:32 week07
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:33 week08
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:33 week09
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:33 week10
+drwxr-xr-x  2 muhammad.rafi51 StafCS 4096 Feb 17 08:35 xtra
+/home/fasilkom/mahasiswa/m/muhammad.rafi51/os171/week01
