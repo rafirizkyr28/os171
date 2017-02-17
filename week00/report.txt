@@ -1,0 +1,2 @@
+#muhammad_rafi_rizky_ramdhani
+In week00 the task require us to create a git hub account and fill out a google form in which contain the information about the github account in order to be put in the course repo. Another thing is to create the first repo called os171. 
