@@ -1,0 +1,1 @@
+In this week01 tutorial, the task asked us to create folders and files which is the into to git, intro to CLI which asked us to redirect the output to the file that can be appended to the bottom of the content
