@@ -1,0 +1,10 @@
+w03-170228-13-LR-Listening to lecturer about booting
+w03-170302-13-LR-Listening to lecturer about linux and booting proccess
+w03-170302-13-LR-About:Linux Booting Process From:
+https://www.youtube.com/watch?v=DOkPZojTOhI
+w03-170302-17-PS-About: Doing Lab session
+w03-170302-10-LR-Reading Suplementary file of week 3
+w03-170303-16-PS-About: Doing Lab session
+w03-170304-7-LR-About: Run Script as Boot at Startup From:
+https://www.youtube.com/watch?v=4bFgB1XTQXI
+
