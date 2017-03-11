@@ -1,0 +1,8 @@
+
+w04-170206-22-LR-About: How to dual boot os, From: 
+https://www.youtube.com/watch?v=qNeJvujdB-0
+w04-170207-13-PS-About: week04 os tutorial 
+w04-170307-13-LR-About: local and global variables, From: Lecturer
+w04-170307-17-DS-Discuss global and local variable address in memory with TA
+w04-170309-13-LR-About: local global variables exercise, From: Lecturer
+w04-170310-19-PS-About: continuing week04 os tutorial
